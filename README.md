@@ -1,4 +1,3 @@
-# FLoodKG
-洪涝灾害时空过程观测的领域知识图谱
-洪涝灾害时空过程观测的领域信息采集过程繁琐、且不同来源数据统一起来十分困难，没办法很好地支持灾害风险评估等要求，洪涝灾害时空过程观测知识图谱本体包括洪涝灾害数据库、地理资源数据库和遥感卫星资源目录等结构化数据源，也包括领域文献资料、灾害应急行业网站等泛在的文本数据。洪涝灾害时空过程观测本体中的不同模块有不同的数据源：洪涝灾害事件数据源、洪涝灾害观测任务数据源、洪涝灾害数据数据源、洪涝灾害模型方法数据源、洪涝灾害观测资源数据源。
+Domain knowledge map of flood disaster spatio-temporal process observation
+The process of collecting information in the field of spatio-temporal process observation of flood disasters is cumbersome, and it is very difficult to unify data from different sources. It cannot well support requirements such as disaster risk assessment. The knowledge graph ontology of spatio-temporal process observation of flood disasters includes flood disaster databases, geographical resource databases and Structured data sources such as remote sensing satellite resource directories also include ubiquitous text data such as field literature and disaster emergency industry websites. Different modules in the flood disaster spatio-temporal process observation ontology have different data sources: flood disaster event data sources, flood disaster observation task data sources, flood disaster data data sources, flood disaster model method data sources, and flood disaster observation resource data sources.
 
